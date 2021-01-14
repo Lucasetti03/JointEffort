@@ -20,8 +20,8 @@ switch (operazione) {
        break;
     
     case 3:
-        
-    break;
+       Moltiplicazione.calcolaMoltiplicazione(numero, numero1);
+       break;
     
     case 4:
         
