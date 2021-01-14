@@ -33,9 +33,11 @@ switch (operazione) {
        break;
     
     case 4:
-        
-    break;
-    
+        Divisione.calcolaDivisione(numero, numero1);
+        break;
+    case 5:
+        Modulo.calcolaModulo(numero, numero1);
+        break;
     default :
     System.out.print("Uscita programma");
    }
